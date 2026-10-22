@@ -13,7 +13,7 @@ This file explains the work in `RV-CLT-PS-Lab2.ipynb`. It is for personal refere
 ## Things to change before submitting
 
 1. **Team ID.** The assignment's team list was not in the paste, so `team_id` is set to `1` in the setup cell. Change it to your team's two-digit number and re-run all cells. Every number in the notebook depends on it.
-2. **Team members.** The work breakdown lists only `Liybomyr Voskalo`. Replace `NameSurname2` and `NameSurname3` with your teammates and fill in the effort estimates.
+2. **Team members.** Done: the work is split evenly between Liybomyr Voskalo (Task 1, Task 4.1 a–b), Anton Vertyporoh (Task 2, Task 4.1 c) and Yulia Yakymiv (Task 3, Task 4.2).
 3. **Re-export.** After changing the team ID, re-run the notebook and regenerate the PDF: `jupyter nbconvert --to notebook --execute --inplace RV-CLT-PS-Lab2.ipynb`, then `jupyter nbconvert --to webpdf RV-CLT-PS-Lab2.ipynb`.
 4. **Re-check the numbers in the conclusions.** The markdown conclusions quote numbers for `team_id = 1`. With a different ID the printed outputs change, so the quoted values (and the Task 2 remark about the bisection disagreeing with the exact answer) must be updated to match.
 
